@@ -17,3 +17,7 @@ config/features=PackedStringArray("4.2", "Forward Plus")
 [display]
 
 window/stretch/mode="viewport"
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
